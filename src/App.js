@@ -8,6 +8,7 @@ import Nav from './Components/Navbar/Nav';
 import { HashRouter as Router, Routes ,Route } from 'react-router-dom';
 
 
+
 import School from './Components/Data/School.json'
 import Graduation from './Components/Data/Graduation.json'
 import Skills from './Components/Data/Skills.json'
@@ -25,10 +26,17 @@ import ScrollFunctionality from './Components/ScrollFunctionality.js';
 import LoginPage from './Components/LoginPage.jsx';
 import SignUp from './Components/SignUp.jsx';
 
+import { useAppContext } from './Components/AppContext.js';
+import SearchResult from './Components/Courses/SearchedCourses.jsx';
+
 
 function App() {
     const [login, setLogin] = useState(false);
     const [signup, setSignup] = useState(false);
+
+    const{searchTerm} = useAppContext();
+
+    console.log('value accessed in the App.js ',searchTerm)
 
     const handleLogin=()=>{
            setLogin(!login)
@@ -52,8 +60,10 @@ function App() {
         <span  className={`${signup ? 'block' :'hidden'}`}>
             <SignUp signupClicked={handleSignUp}/>
         </span>
+        
+            {searchTerm ?   <SearchResult/>  :
 
-          <>
+           <>
           <ScrollFunctionality/>
          <Routes>
           <Route path='/' element={<Home/> } />
@@ -69,14 +79,14 @@ function App() {
 
           </Route>
 
-         </Routes>  
+         </Routes>   
 
-         </>
+         </> 
+         }
     
 
         <Footer/>
 
-        {/* <LoginPage/> */}
       </div>
     </Router>
   );

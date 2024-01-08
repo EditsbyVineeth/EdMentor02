@@ -5,7 +5,7 @@ function Material() {
   return (
     <div className="py-32 px-10">
       <section className=" flex flex-col-reverse md:flex-row-reverse items-center justify-evenly gap-60 md:gap-6 h-full w-full mt-12">
-        <div className=" w-full md:w-1/2 bg-white ">
+        <div className=" w-full md:w-1/2 bg-stone-200 p-4 md:p-12">
           <h1 className=" font-semibold text-4xl mt-12">Register Now for free !</h1>  <br/>
           <span className=" text-md md:text-xl">
              Register your E-mail now to deliver latest news and Courses deliver  to your Inbox.

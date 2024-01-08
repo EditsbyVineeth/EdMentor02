@@ -6,23 +6,21 @@ import { MdContacts } from "react-icons/md";
 
 function Welcome() {
   return (
-    <div className=" p-8 py-20 md:p-24">
+    <div className=" pt-20 px-8 mx-4 md:p-24 bg-stone-300">
       <section className=" flex flex-col md:flex-row items-center justify-evenly h-60 mt-12">
         <div className=" w-full md:w-1/2 ">
-          <h1 className=" font-semibold text-5xl">Welcome To <span className=" text-6xl font-extrabold text-blue-600">EdMentor</span>
+          <h1 className=" font-semibold text-3xl md:text-5xl">Welcome To <span className=" font-extrabold text-blue-600">EdMentor</span>
            </h1>  <br/>
            <div className=" text-3xl">
-             <span className=" cursor-pointer text-blue-600 text-5xl font-bold ml-2">L</span>earn 
-             <span className=" cursor-pointer text-blue-600 text-5xl font-bold ml-2">A</span>nything !  
-             <span className=" cursor-pointer text-blue-600 text-5xl font-bold ml-2">A</span>ny 
-             <span className=" cursor-pointer text-blue-600 text-5xl font-bold ml-2">W</span>here
+             <span className=" cursor-pointer text-4xl font-bold ml-2">L</span>earn 
+             <span className=" cursor-pointer text-4xl font-bold ml-2">A</span>nything !  
+             <span className=" cursor-pointer text-4xl font-bold ml-2">A</span>ny 
+             <span className=" cursor-pointer text-4xl font-bold ml-2">W</span>here
             
            </div>
           <span className=" text-md md:text-xl ">
-              "Welcome to EdMentor, your gateway to transformative learning! Unlock
-              boundless knowledge, explore diverse courses, and embark on an
-              enriching educational journey tailored just for you. Let's empower
-              your aspirations together at EdMentor, where learning knows no limits
+              "Welcome to EdMentor, your gateway to transformative learning!
+               
           </span>
           <br/>
           <div className=" flex flex-row items-center p-4 ">

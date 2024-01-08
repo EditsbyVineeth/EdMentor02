@@ -7,11 +7,18 @@
  
  .login_form{
   
-  background-color: rgba(73, 23, 255, 0.973);
+  background-color: rgba(95, 51, 240, 0.473);
   backdrop-filter: blur(10px);
+  color: white;
  }
  .signup_form{
-  background-color: rgba(103, 95, 131, 0.973);
+  background-color: rgba(95, 51, 240, 0.473);
   backdrop-filter: blur(10px);
+  color: white;
+ }
+
+ .footer{
+  background-color: #194866;
+  color: white;
  }
   
