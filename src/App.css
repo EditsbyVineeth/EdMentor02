@@ -4,11 +4,7 @@
     min-height: 100vh; /* Ensures App takes at least the height of the viewport */
   }
   
-  /* Pushes Footer to the bottom */
-  .App {
-    justify-content: space-between;
-  }
-  
+ 
  .login_form{
   
   background-color: rgba(73, 23, 255, 0.973);
