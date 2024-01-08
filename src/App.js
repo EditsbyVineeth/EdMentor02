@@ -61,7 +61,8 @@ function App() {
             <SignUp signupClicked={handleSignUp}/>
         </span>
         
-            {searchTerm ?   <SearchResult/>  :
+            {searchTerm ?
+              <SearchResult/>  :
 
            <>
           <ScrollFunctionality/>
