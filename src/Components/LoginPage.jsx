@@ -24,7 +24,7 @@ function LoginPage({loginClicked}) {
             <div>
               <label>Username</label>
               <input
-                type="text" className='px-4 ml-4  w-44  md:w-60'
+                type="text" className='px-4 ml-4  w-44  md:w-60 text-black'
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
               />
@@ -33,7 +33,7 @@ function LoginPage({loginClicked}) {
             <div>
               <label>Password</label>
               <input
-                type="password" className='px-4 ml-5 w-44  md:w-60'
+                type="password" className='px-4 ml-5 w-44  md:w-60 text-black'
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
               />
