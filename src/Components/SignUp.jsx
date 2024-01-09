@@ -23,7 +23,7 @@ function SignUp({signupClicked}) {
               <div className='flex flex-col'>
                 <label>First Name</label>
                 <input
-                  type="text" className='px-4 ml-4 w-44 md:w-60'
+                  type="text" className='px-4 ml-4 w-44 md:w-60 text-black'
                   value={username}
                   onChange={(e) => setUsername(e.target.value)}
                 />
@@ -31,7 +31,7 @@ function SignUp({signupClicked}) {
               <div className='flex flex-col'>
                 <label>Second Name</label>
                 <input
-                  type="text" className='px-4 ml-4 mt-2 w-44 md:w-60'
+                  type="text" className='px-4 ml-4 mt-2 w-44 md:w-60 text-black'
                 />
               </div>
             </div>
@@ -39,7 +39,7 @@ function SignUp({signupClicked}) {
             <div className='flex flex-col'>
               <label>Password</label>
               <input
-                type="password" className='px-4 ml-5 w-44 md:w-60'
+                type="password" className='px-4 ml-5 w-44 md:w-60 text-black'
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
               />
