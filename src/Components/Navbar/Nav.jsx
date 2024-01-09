@@ -4,7 +4,6 @@ import { IoMdClose } from "react-icons/io";
 import "./Nav.css";
 import { Link } from "react-router-dom";
 import { useAppContext } from "../AppContext";
-import { IoSearchSharp } from "react-icons/io5";
 import { IoCloseOutline } from "react-icons/io5";
 import { MdAccountCircle } from "react-icons/md";
 
@@ -13,7 +12,6 @@ function Nav({ loginClicked, signupClicked }) {
 
   const { searchTerm, setSearchTerm } = useAppContext();
 
-  // console.log('navcommpoentn state:',searchTerm)
 
   const handleSearchClear = () => {
     setSearchTerm("");
