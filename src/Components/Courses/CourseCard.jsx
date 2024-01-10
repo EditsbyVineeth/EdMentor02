@@ -10,7 +10,7 @@ function CourseCard({data,img,CourseTitle}) {
       <div className='p-2  justify-evenly gap-2 py-14 md:px-16 flex flex-row flex-wrap md:gap-12'>
   
          { data.map((item,key)=>(
-          <div className=' bg-gradient-to-r from-sky-200 to-sky-100 w-36 md:w-56  h-auto md:h-auto 
+          <div className=' bg-stone-200 shadow-xl w-36 md:w-56  h-auto md:h-auto 
            transition-all duration-300 hover:scale-105  flex flex-col items-center p-1 md:p-2'>
               <img src={img} alt='courcePic'/>
                 <h1 className=' text-left font-semibold text-lg md:text-xl md:leading-tight'>{item.course}</h1>

@@ -35,7 +35,7 @@ function SearchResult() {
   <div className='w-full flex flex-wrap justify-evenly items-center pt-32 px-4 gap-6 md:gap-12 '>
       
          { filteredData.map((item,key)=>( 
-          <div className=' bg-gradient-to-r  from-sky-200 to-sky-100  w-48 md:w-56  h-auto hover:scale-105 transition-all duration-300
+          <div className=' bg-stone-200  w-48 md:w-56  h-auto hover:scale-105 transition-all duration-300
              md:h-auto flex flex-col items-center p-1 md:p-2'>
               <img src={sampleImg} alt='samplePic'/>
                 <h1 className=' text-left font-semibold text-md leading-tight md:text-xl'>{item.course}</h1>
