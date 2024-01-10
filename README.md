@@ -1,6 +1,6 @@
 This is an E-Learning website with variety of courses included.
 
-![Screenshot description](image_link_here)
+![Screenshot description](src/images/edmentorPIC.jpg)
 
 
 
