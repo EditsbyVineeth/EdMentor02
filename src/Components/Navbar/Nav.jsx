@@ -74,7 +74,7 @@ function Nav({ loginClicked, signupClicked }) {
                 </Link>{" "}
               </li>
 
-              <div className=" bg-white bg-transparent p-2 rounded-lg w-36 flex flex-row items-center justify-between">
+              <div className="p-1 rounded-lg  border-2 border-gray- flex flex-row items-center justify-between">
                 <input
                   type="text"
                   placeholder="Search here..."
