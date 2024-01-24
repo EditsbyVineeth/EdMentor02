@@ -9,9 +9,10 @@ function CourseNavbar() {
   };
 
   return (
-    <div className='py-8 mt-10'>
-      <div className='px-8 h-16 fixed text-sm md:text-xl border-t-8 border-t-blue-400 bg-gray-300 border-1 border-y-black font-extrabold w-full uppercase flex flex-row items-center gap-12'>
-        <div className='bg-opacity-70 flex h-12 items-center w-max justify-evenly'>
+    <div className='py-8 mt-10 z-50'>
+      <div className=' bg-opacity-50 backdrop-blur-sm px-8 h-16 fixed text-sm md:text-xl border-t-8 border-t-blue-400 bg-stone-200 border-1
+       border-y-black font-bold w-full uppercase flex flex-row items-center gap-12'>
+        <div className='bg-opacity-70 flex h-12 text-blue-600 items-center w-max justify-evenly'>
           <span className='mr-5 md:mr-14 hover:border-b-2 border-black'><Link to=''>School</Link></span>
           <span className='mr-5 md:mr-14 hover:border-b-2 border-black'><Link to='/course/skills'>Skills</Link></span>
           <span className='mr-5 md:mr-14 hover:border-b-2 border-black'><Link to='/course/graduation'>Graduation</Link></span>

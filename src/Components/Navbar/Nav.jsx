@@ -7,6 +7,8 @@ import { useAppContext } from "../AppContext";
 import { IoCloseOutline } from "react-icons/io5";
 import { MdAccountCircle } from "react-icons/md";
 
+import titleLogo from '../../images/Companies/LOGO.png'
+
 function Nav({ loginClicked, signupClicked }) {
   const [toggle, setToggle] = useState(false);
 
@@ -24,12 +26,11 @@ function Nav({ loginClicked, signupClicked }) {
 
   return (
     <div className=" fixed h-20 md:h-24 ">
-      <div className=" bg-stone-200 nav__bar w-full h-20 fixed flex flex-row items-center  justify-between p-6">
-        <div className=" text-xl md:text-3xl font-semibold">
-          <span className=" text-blue-600 text-2xl md:text-5xl font-semibold">
-            E
-          </span>
-          duMentor
+      <div className=" bg-white shadow-md nav__bar w-full h-20 fixed flex flex-row items-center  justify-between p-6">
+        <div className=" text-blue-700 text-xl md:text-4xl font-semibold object-cover">
+          <img src={titleLogo} alt=""  className=" object-cover h-20" />
+        
+  
         </div>
 
         <div className="  flex flex-row items-center justify-end md:w-8/12">
@@ -92,8 +93,8 @@ function Nav({ loginClicked, signupClicked }) {
                 {" "}
                 <button
                   onClick={signupClicked}
-                  className=" transition-all duration-300 border-2 bg-white hover:bg-blue-600
-                     text-black hover:text-white h-10 rounded-sm w-16"
+                  className=" transition-all duration-300 border-2 bg-pink-600 hover:bg-white
+                     text-white hover:text-black h-10 rounded-sm w-16"
                 >
                   Sign{" "}
                 </button>{" "}

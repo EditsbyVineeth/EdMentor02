@@ -1,0 +1,24 @@
+
+
+[
+    {
+        "id": 1,
+        "url": "/src/images/Companies/1.png",
+        "caption": "Beautiful Sunset"
+      },
+    {
+        "id": 2,
+        "url": "/src/images/Companies/2.png",
+        "caption": "Beautiful Sunset"
+      },
+    {
+        "id": 3,
+        "url": "/src/images/Companies/3.png",
+        "caption": "Beautiful Sunset"
+      },
+    {
+        "id": 4,
+        "url": "/src/images/Companies",
+        "caption": "Beautiful Sunset"
+      }
+]

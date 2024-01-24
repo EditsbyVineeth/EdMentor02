@@ -1,7 +1,40 @@
+:root {
+   --bgColor: linear-gradient(to right, rgb(240, 139, 178), rgb(238, 194, 113));
+ }
+ 
  .welcome__img{
     box-shadow: 12px 14px 0px 0px #7eade9;
  }
 
  .update__img{
-    box-shadow: 12px 14px 0px 0px #7eade9;
+    box-shadow: 12px 14px 0px 0px #d1ccd0;
  }
+
+ .welcomePage{
+   background: url('https://www.bel-india.com/wp-content/uploads/2019/08/Study.jpg');
+   background-position: center center;
+   /* background-attachment: fixed; */
+   background-size: cover;
+   width: 1200px;
+   height: 500px;
+   padding: 20px;
+   box-sizing: border-box;
+    
+    
+ }
+
+
+ .courses_page{
+  background:
+   linear-gradient(rgba(247, 243, 243, 0.5), rgba(228, 226, 226, 0.5)) ,
+  url('/src/images/blogs/bg_image.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  scroll-behavior: smooth;
+
+ }
+
+
+ 

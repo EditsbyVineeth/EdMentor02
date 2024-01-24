@@ -1,0 +1,9 @@
+[
+    {
+        "id": 2,
+        "user": "Alice Smith",
+        "course": "Data Science Fundamentals",
+        "rating": 5,
+        "comment": "I am impressed with the quality of the Data Science Fundamentals course. The instructors explain complex concepts in a way that's easy to understand. The hands-on projects are a great addition!"
+      }
+]

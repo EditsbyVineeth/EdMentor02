@@ -6,8 +6,9 @@ function CoursePage() {
 
 
   return (
-
-        <div>
+ 
+        <div className=' course_page'>
+          
             <CourseNavbar/>
         </div>
 
