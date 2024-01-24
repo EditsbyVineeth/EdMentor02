@@ -1,5 +1,8 @@
 This is an E-Learning website with variety of courses included.
 
+![Screenshot description](src/images/edmentorPIC.jpg)
+
+
 
 
 #Technologies Used:
