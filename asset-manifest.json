@@ -1,21 +1,36 @@
 {
   "files": {
-    "main.css": "/EdMentor02/static/css/main.37b13eba.css",
-    "main.js": "/EdMentor02/static/js/main.f2d1ef6d.js",
+    "main.css": "/EdMentor02/static/css/main.a8a05651.css",
+    "main.js": "/EdMentor02/static/js/main.f70ff55c.js",
+    "static/media/bg_image.jpg": "/EdMentor02/static/media/bg_image.767e29aa88703bbe369c.jpg",
+    "static/media/st1.jpg": "/EdMentor02/static/media/st1.d95dffd1c34e98fee0f2.jpg",
+    "static/media/st2.jpg": "/EdMentor02/static/media/st2.1f9a599012bb3acb366c.jpg",
     "static/media/ExploreCourse.jpg": "/EdMentor02/static/media/ExploreCourse.7d2cb06c23223d078b5a.jpg",
+    "static/media/st3.jpg": "/EdMentor02/static/media/st3.7aa8b19089f0fa9212a5.jpg",
     "static/media/updateImage.png": "/EdMentor02/static/media/updateImage.460dffe408a655fff9b9.png",
     "static/media/stocks.png": "/EdMentor02/static/media/stocks.a37a372086611fa97964.png",
     "static/media/money.png": "/EdMentor02/static/media/money.fd3ebb3358099d651c7f.png",
+    "static/media/elearning_background.png": "/EdMentor02/static/media/elearning_background.ed905053e0a9ec4c8da1.png",
+    "static/media/st4.png": "/EdMentor02/static/media/st4.4f7ac4c4e7c8beef5cfa.png",
+    "static/media/st6.png": "/EdMentor02/static/media/st6.e723aa5164d45683d158.png",
+    "static/media/st7.png": "/EdMentor02/static/media/st7.fac87a44f6f9b9f1c97b.png",
+    "static/media/st5.png": "/EdMentor02/static/media/st5.749ea78d9552169a11d1.png",
+    "static/media/5.png": "/EdMentor02/static/media/5.5f9cc168f55c6d470366.png",
+    "static/media/4.png": "/EdMentor02/static/media/4.91c1cb2d002fcfd29b36.png",
+    "static/media/2.png": "/EdMentor02/static/media/2.12fc8d05f0058cdf69d6.png",
+    "static/media/3.png": "/EdMentor02/static/media/3.271cf94a103b5c63bb6f.png",
     "static/media/8.jpg": "/EdMentor02/static/media/8.d566251f112711c6629c.jpg",
+    "static/media/1.png": "/EdMentor02/static/media/1.2d1350c794dc0c311f9e.png",
+    "static/media/LOGO.png": "/EdMentor02/static/media/LOGO.737fd0f0a8e3e20c2e1a.png",
     "static/media/1.jpg": "/EdMentor02/static/media/1.0d78ff4bcaa9b9978955.jpg",
     "static/media/3.jpg": "/EdMentor02/static/media/3.ae2410d5598defccbb6f.jpg",
     "static/media/2.jpg": "/EdMentor02/static/media/2.cb35a8c1b22c4a3b6086.jpg",
     "index.html": "/EdMentor02/index.html",
-    "main.37b13eba.css.map": "/EdMentor02/static/css/main.37b13eba.css.map",
-    "main.f2d1ef6d.js.map": "/EdMentor02/static/js/main.f2d1ef6d.js.map"
+    "main.a8a05651.css.map": "/EdMentor02/static/css/main.a8a05651.css.map",
+    "main.f70ff55c.js.map": "/EdMentor02/static/js/main.f70ff55c.js.map"
   },
   "entrypoints": [
-    "static/css/main.37b13eba.css",
-    "static/js/main.f2d1ef6d.js"
+    "static/css/main.a8a05651.css",
+    "static/js/main.f70ff55c.js"
   ]
 }
