@@ -133,11 +133,11 @@ function Nav({ loginClicked, signupClicked }) {
           </li>
           <li>
             {" "}
-            <button onClick={signupClicked}> SIGNIN </button>
+            <button onClick={signupClicked} className=" tracking-widest"> SIGNIN </button>
           </li>
           <li>
             {" "}
-            <button onClick={loginClicked}> LOGIN </button>
+            <button onClick={loginClicked} className=" tracking-widest"> LOGIN </button>
           </li>
         </ul>
       </div>

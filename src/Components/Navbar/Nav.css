@@ -14,7 +14,9 @@
 .mob__nav{
     position: relative;
     display: none;
-    background-color:#e1dddb; ;
+    backdrop-filter: blur(10px);
+    background: rgba(122, 125, 126, 0.3);
+    box-shadow: 0 4px 6px rgba(255, 182, 193, 0.1); 
     top: 80px;
     padding-top: 80px;
     margin-left: 250px;
@@ -22,14 +24,12 @@
     height: 100vh;
     border-top: 2px solid black;
     transition: transform 0.5s ease-in-out;
+    letter-spacing: 8px;
+    font-weight: bolder;
+    color: rgb(190, 16, 103);
 
 }
 
-/* .mob__nav ul{
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-} */
 .mob__nav ul li{
     list-style: none;
     padding: 25px 40px;
@@ -53,6 +53,7 @@
 .mob__nav ul li:hover, .mob__nav ul li.active{
  background: var(--hover-color);
  transition: 0.2s ease-in;
+ color: white;
 
 }
 
