@@ -9,6 +9,9 @@ import { MdAccountCircle } from "react-icons/md";
 
 import titleLogo from '../../images/Companies/LOGO.png'
 
+import { motion } from "framer-motion";
+
+
 function Nav({ loginClicked, signupClicked }) {
   const [toggle, setToggle] = useState(false);
 
@@ -91,13 +94,18 @@ function Nav({ loginClicked, signupClicked }) {
 
               <li className=" float-right m-4">
                 {" "}
-                <button
-                  onClick={signupClicked}
+                <motion.button
+                onClick={signupClicked}
+                  whileHover={{ scale: 1.1, rotate: 360 }}
+                  whileTap={{
+                    scale: 0.2,
+                    rotate: -360,
+                    borderRadius: "100%"}}
                   className=" transition-all duration-300 border-2 bg-pink-600 hover:bg-white
                      text-white hover:text-black h-10 rounded-sm w-16"
                 >
                   Sign{" "}
-                </button>{" "}
+                </motion.button>
               </li>
               <span onClick={loginClicked} className=" text-2xl">
                 <MdAccountCircle />{" "}

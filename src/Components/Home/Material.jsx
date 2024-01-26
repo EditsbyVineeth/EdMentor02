@@ -14,7 +14,7 @@ function Material() {
 
           <div className=" flex flex-row items-center ">
            <input type="text" className=" h-12 w-2/3 bg-white border-1 border-gray-300 px-4 text-lg " placeholder="Enter your Email"/>
-           <button className=" h-12 w-24 bg-pink-600 m-2 border-2 hover:shadow-2xl text-white">Register</button>
+           <button className=" h-12 w-24 bg-pink-600 m-2 border-2 hover:bg-white text-white">Register</button>
           </div>
         </div>
 

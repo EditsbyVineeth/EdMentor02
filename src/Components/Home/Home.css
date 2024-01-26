@@ -37,4 +37,13 @@
  }
 
 
- 
+ .feedback_card{
+   scale: 0.8;
+   opacity: 0;
+   animation: fade-in linear forwards;
+   animation-range: 250px 500px;
+ }
+
+ @keyframes fade-in{
+   to{scale: 1; opacity: 1;}
+ }

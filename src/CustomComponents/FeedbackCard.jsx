@@ -3,7 +3,7 @@ import { IoIosStar } from "react-icons/io";
 
 function FeedbackCard({data,user,course,rating,comment, Student_Pic}) {
   return (
-    <div className=' bg-white rounded-lg md:w-80 shadow-2xl flex flex-col items-center p-4'>
+    <div className=' feedback_card bg-white rounded-lg md:w-80 shadow-2xl flex flex-col items-center p-4'>
         {data.map((item, key)=>(
     <>
         

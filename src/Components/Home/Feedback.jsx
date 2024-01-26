@@ -15,12 +15,28 @@ import pic5 from '../../images/students/st5.png'
 import pic6 from '../../images/students/st6.png'
 import pic7 from '../../images/students/st7.png'
 
+import { motion } from 'framer-motion';
+
+
 function Feedback() {
   return (
     <div className=' w-full bg-gray-100 flex flex-col items-center justify-center mt-44 p-4'>
  
            
-           <div className='-mt-10 text-pink-600 bg-white rounded-full'> <FaUserGraduate size={40}/> </div>
+           <motion.div className='-mt-10 text-pink-600 bg-white rounded-full'
+           initial={{opacity:0}}
+           animate={{opacity:1}}
+           exit={{opacity:0}}
+              whileHover={{ scale: 1.2, rotate: 90 }}
+              whileTap={{
+                scale: 0.8,
+                rotate: -90,
+                borderRadius: "100%"
+              }}
+           > 
+           <FaUserGraduate size={40}/> 
+           </motion.div>
+
            <span className=' text-2xl md:text-4xl font-bold mt-4'>What Our Students Say About Us ?</span>
            <span className=' text-md md:text-xl mt-4'>
            77% of learners report career benefits, like landing a new job, earning a promotion, gaining applicable skills, and more.
