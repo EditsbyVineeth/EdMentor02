@@ -26,7 +26,7 @@ function SearchResult() {
       item.course.toLowerCase().includes(searchTerm.toLowerCase())
     );
     setFilteredData(filteredCourses);
-  }, [searchTerm]);
+  },  [searchTerm, combinedData, setFilteredData]);
 
 
 
