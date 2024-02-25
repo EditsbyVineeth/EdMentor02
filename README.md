@@ -43,8 +43,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/callmeVineeth/EduMentor2.git`
-2. Navigate to the project directory: `cd EduMentor`
+1. Clone the repository: `git clone https://github.com/callmeVineeth/EduMentor02.git`
+2. Navigate to the project directory: `cd EduMentor02`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
