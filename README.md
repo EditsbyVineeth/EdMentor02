@@ -1,8 +1,6 @@
 <div align='center'>
 
- <div style="background-color: white; padding: 10px; font-size: 36px; font-weight:600 ; color: red ;">
-EduMentor
-</div>
+ # EduMentor
 
  <span style="font-size: 18px;">**EduMentor is an e-learning platform designed to provide high-quality education resources and mentorship to students in an interactive online environment.**  </span>
 
