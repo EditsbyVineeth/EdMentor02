@@ -65,11 +65,15 @@ Provide information on how users can use your application, including any necessa
 
 Feel free to contribute to the project. Follow these steps:
 
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request.
+1. Star the Repo.
+2. Fork the project.
+3. Create your feature branch: `git checkout -b feature-name`
+4. Commit your changes: `git commit -m 'Add some feature'`
+5. Push to the branch: `git push origin feature-name`
+6. Open a pull request.
+
+## Feedbacks
+If you have any kind of feedbacks, suggestions or feature improvement plans or you find a bug feel free to open an issue in this repo.
 
 ## License
 
