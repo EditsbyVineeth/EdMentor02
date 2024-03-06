@@ -21,7 +21,11 @@
   background-color: #194866;
   color: white;
  }
-  
+
+ .multiple-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr))
+  }  
 
 /* .course_page{
   background-image: url('./images/blogs/page_background.png');
