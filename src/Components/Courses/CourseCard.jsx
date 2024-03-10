@@ -1,9 +1,11 @@
 import React from 'react'
 
+
 function CourseCard({data,img,CourseTitle}) {
   // p-2  justify-evenly gap-2 py-14 md:px-16 flex flex-row flex-wrap md:gap-12
   // bg-stone-200 shadow-xl w-48 my-2 md:w-56  h-auto md:h-auto -z-10
   //         transition-all duration-300 hover:scale-105  flex flex-col items-center
+  
   return (
  
     <>

@@ -6,7 +6,9 @@
       "point2": "Introduction to Geometry and Shapes",
       "point3": "Math Games and Puzzles",
       "Price": "$12",
-      "Duration": "45 Hr"
+      "Duration": "45 Hr",
+      "Image":"../../images/blogs/blog-math.jpg"
+  
     },
     {
       "course": "Science",
@@ -14,7 +16,8 @@
       "point2": "Nature Exploration and Outdoor Learning",
       "point3": "Basic Concepts of Biology, Chemistry, and Physics",
       "Price": "$15",
-      "Duration": "50 Hr"
+      "Duration": "50 Hr",
+      "Image":"../../images/blogs/blog-science.jpg"
     },
   
     {
@@ -23,7 +26,8 @@
       "point2": "Basic Computer Skills",
       "point3": "Introduction to Robotics for Kids",
       "Price": "$14",
-      "Duration": "42 Hr"
+      "Duration": "42 Hr",
+      "Image":"../../images/blogs/blog-robotics.jpg"
     },
     {
       "course": "Social Studies",
@@ -31,7 +35,8 @@
       "point2": "Basic History and Historical Figures",
       "point3": "Citizenship and Community Awareness",
       "Price": "$13",
-      "Duration": "48 Hr"
+      "Duration": "48 Hr",
+      "Image":"../../images/blogs/blog-social.jpg"
     },
     {
       "course": "Physical Education",
@@ -39,7 +44,8 @@
       "point2": "Yoga and Mindfulness for Kids",
       "point3": "Fundamental Movement Skills",
       "Price": "$9",
-      "Duration": "36 Hr"
+      "Duration": "36 Hr",
+      "Image":"../../images/blogs/blog-yoga.jpg"
     },
     {
       "course": "Social and Emotional Learning (SEL)",
@@ -47,7 +53,8 @@
       "point2": "Building Positive Relationships",
       "point3": "Conflict Resolution for Children",
       "Price": "$16",
-      "Duration": "55 Hr"
+      "Duration": "55 Hr",
+      "Image":"../../images/blogs/blog-emotion.jpg"
     },
    
     {
@@ -56,7 +63,8 @@
       "point2": "Basic Conversational Phrases",
       "point3": "Cultural Awareness for Kids",
       "Price": "$11",
-      "Duration": "40 Hr"
+      "Duration": "40 Hr",
+      "Image":"../../images/blogs/blog-teach.jpg"
     },
    
     {
@@ -65,7 +73,8 @@
       "point2": "Recycling and Conservation for Kids",
       "point3": "Planting and Gardening Activities",
       "Price": "$14",
-      "Duration": "47 Hr"
+      "Duration": "47 Hr",
+      "Image":"../../images/blogs/blog-read.jpg"
     }
   ]
   
