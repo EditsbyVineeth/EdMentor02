@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EdMentor02/static/css/main.81833a6c.css",
-    "main.js": "/EdMentor02/static/js/main.fe0e7104.js",
+    "main.js": "/EdMentor02/static/js/main.3d27e2ce.js",
     "static/media/bg_image.jpg": "/EdMentor02/static/media/bg_image.767e29aa88703bbe369c.jpg",
     "static/media/st1.jpg": "/EdMentor02/static/media/st1.d95dffd1c34e98fee0f2.jpg",
     "static/media/st2.jpg": "/EdMentor02/static/media/st2.1f9a599012bb3acb366c.jpg",
@@ -27,10 +27,10 @@
     "static/media/2.jpg": "/EdMentor02/static/media/2.cb35a8c1b22c4a3b6086.jpg",
     "index.html": "/EdMentor02/index.html",
     "main.81833a6c.css.map": "/EdMentor02/static/css/main.81833a6c.css.map",
-    "main.fe0e7104.js.map": "/EdMentor02/static/js/main.fe0e7104.js.map"
+    "main.3d27e2ce.js.map": "/EdMentor02/static/js/main.3d27e2ce.js.map"
   },
   "entrypoints": [
     "static/css/main.81833a6c.css",
-    "static/js/main.fe0e7104.js"
+    "static/js/main.3d27e2ce.js"
   ]
 }
