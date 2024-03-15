@@ -5,7 +5,8 @@
         "point2": "Logic and Reasoning Skills",
         "point3": "Creative Problem-Solving Activities",
         "Price": "$23",
-        "Duration": "58 Hr"
+        "Duration": "58 Hr",
+        "img": "https://img.freepik.com/free-photo/online-learning-skills-concept-laptop-screen_53876-94882.jpg?t=st=1710489545~exp=1710493145~hmac=8581dcb70c05e8de065588ba682c230753680a0c6c29740a690aa006b0d19bf6&w=740"
       },
 
       {
@@ -14,7 +15,8 @@
         "point2": "Yoga and Mindfulness for Kids",
         "point3": "Fundamental Movement Skills",
         "Price": "$16",
-        "Duration": "42 Hr"
+        "Duration": "42 Hr",
+        "img":"https://img.freepik.com/free-vector/businessman-elemets-concept_1284-33995.jpg?t=st=1710489605~exp=1710493205~hmac=c9edce010366ab515004ff7e587a975c49ceac72be0a639b6383dd57b8c57342&w=740"
       },
       {
         "course": "Social and Emotional Learning (SEL)",
@@ -22,7 +24,8 @@
         "point2": "Building Positive Relationships",
         "point3": "Conflict Resolution for Children",
         "Price": "$14",
-        "Duration": "38 Hr"
+        "Duration": "38 Hr",
+        "img":"https://img.freepik.com/free-photo/medium-shot-people-learning-office_23-2149300756.jpg?t=st=1710489633~exp=1710493233~hmac=8e12827e3f5d272e75547e0d008b29a8971c278684b0ab20f7def4e7952e9267&w=740"
       },
       {
         "course": "Life Skills",
@@ -30,7 +33,8 @@
         "point2": "Personal Hygiene and Health Habits",
         "point3": "Time Management and Organizational Skills",
         "Price": "$17",
-        "Duration": "47 Hr"
+        "Duration": "47 Hr",
+        "img":"https://as1.ftcdn.net/v2/jpg/05/54/63/22/1000_F_554632251_9GUcCWOALGG3uAgzgaoO0dCfp5J4vYAq.jpg"
       },
       {
         "course": "Language and Literacy",
@@ -38,7 +42,8 @@
         "point2": "Storytelling and Creative Writing for Kids",
         "point3": "Vocabulary Building Activities",
         "Price": "$10",
-        "Duration": "35 Hr"
+        "Duration": "35 Hr",
+        "img":"https://as2.ftcdn.net/v2/jpg/05/54/63/15/1000_F_554631598_CGgQORTqXxiTp4yjiWXFN0R0kV59rohd.jpg"
       },
       {
         "course": "Digital Marketing",
@@ -46,7 +51,8 @@
         "point2": "Social Media Marketing Strategy",
         "point3": "SEO (Search Engine Optimization) Certification",
         "Price": "$20",
-        "Duration": "45 Hr"
+        "Duration": "45 Hr",
+        "img":"https://img.freepik.com/free-photo/hand-holding-smartphone-social-media-concept_23-2150208245.jpg?t=st=1710489821~exp=1710493421~hmac=4e3addaca46b1577b4767f69c6fde334daf9b1620f37ad921e17c5de782c1fe7&w=740"
       },
       {
         "course": "Graphic Design and Multimedia",
@@ -54,7 +60,8 @@
         "point2": "Adobe Creative Suite Certification",
         "point3": "3D Animation and Modeling",
         "Price": "$26",
-        "Duration": "52 Hr"
+        "Duration": "52 Hr",
+        "img" : "https://img.freepik.com/free-photo/graphic-designers-working-office_1170-1758.jpg?t=st=1710489862~exp=1710493462~hmac=df815605fbc04eb8d666c6811f1a58bd29c5898880a9a0a2e6a24e20ed5534f9&w=740"
       },
       {
         "course": "Art and Creativity",
@@ -62,7 +69,8 @@
         "point2": "Craft Making and DIY Projects",
         "point3": "Introduction to Music and Musical Instruments",
         "Price": "$11",
-        "Duration": "38 Hr"
+        "Duration": "38 Hr",
+        "img":"https://img.freepik.com/free-photo/drawing-master-supervising-students-work_1262-18443.jpg?t=st=1710489784~exp=1710493384~hmac=6ae2ae6cbf95c42f847ac77cb25fc0689dd6a0bcdbe212874060907281030ce4&w=740"
       }
 
 ]
