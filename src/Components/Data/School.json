@@ -1,80 +1,73 @@
 [
-   
-    {
-      "course": "Mathematics",
-      "point1": "Basic Math Skills and Concepts",
-      "point2": "Introduction to Geometry and Shapes",
-      "point3": "Math Games and Puzzles",
-      "Price": "$12",
-      "Duration": "45 Hr",
-      "Image":"../../images/blogs/blog-math.jpg"
-  
-    },
-    {
-      "course": "Science",
-      "point1": "Introduction to Science Experiments for Kids",
-      "point2": "Nature Exploration and Outdoor Learning",
-      "point3": "Basic Concepts of Biology, Chemistry, and Physics",
-      "Price": "$15",
-      "Duration": "50 Hr",
-      "Image":"../../images/blogs/blog-science.jpg"
-    },
-  
-    {
-      "course": "Computer Science and Technology",
-      "point1": "Coding for Kids (Scratch, Blockly)",
-      "point2": "Basic Computer Skills",
-      "point3": "Introduction to Robotics for Kids",
-      "Price": "$14",
-      "Duration": "42 Hr",
-      "Image":"../../images/blogs/blog-robotics.jpg"
-    },
-    {
-      "course": "Social Studies",
-      "point1": "World Cultures and Geography",
-      "point2": "Basic History and Historical Figures",
-      "point3": "Citizenship and Community Awareness",
-      "Price": "$13",
-      "Duration": "48 Hr",
-      "Image":"../../images/blogs/blog-social.jpg"
-    },
-    {
-      "course": "Physical Education",
-      "point1": "Introduction to Sports and Physical Activities",
-      "point2": "Yoga and Mindfulness for Kids",
-      "point3": "Fundamental Movement Skills",
-      "Price": "$9",
-      "Duration": "36 Hr",
-      "Image":"../../images/blogs/blog-yoga.jpg"
-    },
-    {
-      "course": "Social and Emotional Learning (SEL)",
-      "point1": "Emotional Intelligence for Kids",
-      "point2": "Building Positive Relationships",
-      "point3": "Conflict Resolution for Children",
-      "Price": "$16",
-      "Duration": "55 Hr",
-      "Image":"../../images/blogs/blog-emotion.jpg"
-    },
-   
-    {
-      "course": "Foreign Languages",
-      "point1": "Introduction to a Second Language",
-      "point2": "Basic Conversational Phrases",
-      "point3": "Cultural Awareness for Kids",
-      "Price": "$11",
-      "Duration": "40 Hr",
-      "Image":"../../images/blogs/blog-teach.jpg"
-    },
-   
-    {
-      "course": "Environmental Education",
-      "point1": "Introduction to Environmental Awareness",
-      "point2": "Recycling and Conservation for Kids",
-      "point3": "Planting and Gardening Activities",
-      "Price": "$14",
-      "Duration": "47 Hr",
-      "Image":"../../images/blogs/blog-read.jpg"
-    }
-  ]
-  
+  {
+    "course": "Mathematics",
+    "point1": "Basic Math Skills and Concepts",
+    "point2": "Introduction to Geometry and Shapes",
+    "point3": "Math Games and Puzzles",
+    "Price": "$12",
+    "Duration": "45 Hr",
+    "img": "https://img.freepik.com/premium-photo/indian-student-standing-against-chalkboard-with-space-doodle_466689-96927.jpg?w=740"
+  },
+  {
+    "course": "Science",
+    "point1": "Introduction to Science Experiments for Kids",
+    "point2": "Nature Exploration and Outdoor Learning",
+    "point3": "Basic Concepts of Biology, Chemistry, and Physics",
+    "Price": "$15",
+    "Duration": "50 Hr",
+    "img": "https://img.freepik.com/free-photo/students-knowing-right-answer_329181-14271.jpg?t=st=1710488717~exp=1710492317~hmac=35859fe82a39c305a045c2936d206a6d13d053a1b1292944c8ccb6c42d27d119&w=740"
+  },
+  {
+    "course": "Computer Science and Technology",
+    "point1": "Coding for Kids (Scratch, Blockly)",
+    "point2": "Basic Computer Skills",
+    "point3": "Introduction to Robotics for Kids",
+    "Price": "$14",
+    "Duration": "42 Hr",
+    "img": "https://img.freepik.com/free-photo/back-school-covid-concept_23-2148666163.jpg?t=st=1710488755~exp=1710492355~hmac=21babf81d88e945724c845de93d7f7284efbca82c77b10da53b9186394a747ea&w=826"
+  },
+  {
+    "course": "Social Studies",
+    "point1": "World Cultures and Geography",
+    "point2": "Basic History and Historical Figures",
+    "point3": "Citizenship and Community Awareness",
+    "Price": "$13",
+    "Duration": "48 Hr",
+    "img": "https://img.freepik.com/free-vector/lovely-hand-drawn-education-concept_23-2147911538.jpg?t=st=1710488791~exp=1710492391~hmac=03903de876a13b2871d49cf5f142adf7e3cf7584ee1cc6672a11703f228d6c01&w=740"
+  },
+  {
+    "course": "Physical Education",
+    "point1": "Introduction to Sports and Physical Activities",
+    "point2": "Yoga and Mindfulness for Kids",
+    "point3": "Fundamental Movement Skills",
+    "Price": "$9",
+    "Duration": "36 Hr",
+    "img": "https://img.freepik.com/free-photo/school-children-dressed-uniform-have-fun-play-schoolyard_8353-6640.jpg?t=st=1710489188~exp=1710492788~hmac=a083cb3ac55740b5f34d5beecc1c68a90d38399dd94063e09f1bde0b8fbd8914&w=740"
+  },
+  {
+    "course": "Social and Emotional Learning (SEL)",
+    "point1": "Emotional Intelligence for Kids",
+    "point2": "Building Positive Relationships",
+    "point3": "Conflict Resolution for Children",
+    "Price": "$16",
+    "Duration": "55 Hr",
+    "img": "https://img.freepik.com/premium-photo/indian-happy-cute-kid-little-boy-reading-book-looking-camera_466689-96257.jpg?w=740"
+  },
+  {
+    "course": "Foreign Languages",
+    "point1": "Introduction to a Second Language",
+    "point2": "Basic Conversational Phrases",
+    "point3": "Cultural Awareness for Kids",
+    "Price": "$11",
+    "Duration": "40 Hr",
+    "img": "https://img.freepik.com/free-photo/medium-shot-girl-portrait-with-graduation-background_23-2150293611.jpg?t=st=1710488972~exp=1710492572~hmac=60c91d04ae85bb3cc6450ead56d771896ecd3e9dc1426ca3fab3319f3c2e066e&w=826"
+  },
+  {
+    "course": "Environmental Education",
+    "point1": "Introduction to Environmental Awareness",
+    "point2": "Recycling and Conservation for Kids",
+    "point3": "Planting and Gardening Activities",
+    "Price": "$14",
+    "Duration": "47 Hr"
+  }
+]

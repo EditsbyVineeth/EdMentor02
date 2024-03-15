@@ -12,7 +12,7 @@ import Feedback from './Feedback'
 function Home() {
   return (
     <div className=' relative top-24 -z-10'>
-      <WelcomePage/>
+      <WelcomePage/> 
       <Sponsers/>
       <Courses/>
       <PopularSubjects/>
