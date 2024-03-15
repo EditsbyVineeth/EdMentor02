@@ -4,15 +4,15 @@ import { IoIosStar } from "react-icons/io";
 function FeedbackCard({data,user,course,rating,comment, Student_Pic}) {
   return (
     <div className=' feedback_card bg-white rounded-lg md:w-80 shadow-2xl flex flex-col items-center p-4'>
-        {data.map((item, key)=>(
+        {data.map((item,id)=>(
     <>
         
-                    <div className=' rounded-full object-cover -mt-12 absolute'>
+                    <div className=' rounded-full object-cover -mt-12 absolute' key={id}>
                         <img src={Student_Pic} alt='' className=' w-24 h-24 rounded-full'/>
                     </div>
                     <div className=' flex flex-col justify-center items-center mt-12'>
                         
-                        <span key={item.id} className=' text-blue-700 font-bold opacity-80'>{item.user}</span>
+                        <span className=' text-blue-700 font-bold opacity-80'>{item.user}</span>
                         <span key={item.id}  className=' font-bold marker opacity-70'>{item.course}</span>
                         <div className=' opacity-70'>{item.comment}</div>
                         <div className=' flex flex-row justify-end'>
