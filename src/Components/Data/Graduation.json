@@ -5,7 +5,8 @@
       "point2": "Python for Data Science and Machine Learning",
       "point3": "Java Programming and Software Engineering",
       "Price": "$24",
-      "Duration": "55 weeks"
+      "Duration": "55 weeks",
+      "img" : "https://img.freepik.com/free-photo/medium-shot-graduate-student_23-2148950577.jpg?t=st=1710492295~exp=1710495895~hmac=51cf93123d1729c1585121b9ca70bbb91894e9910bb42ac9040860a1c1a2860c&w=740"
     },
     {
       "course": "Business and Finance",
@@ -13,7 +14,8 @@
       "point2": "Financial Accounting and Analysis",
       "point3": "Marketing Strategy and Analytics",
       "Price": "$22",
-      "Duration": "50 weeks"
+      "Duration": "50 weeks",
+      "img":"https://img.freepik.com/free-photo/happy-student-with-graduation-hat-diploma-grey_231208-12979.jpg?t=st=1710492357~exp=1710495957~hmac=672b766d8721215992957fa189abb33bb8f3114182802f83b3a737ec70b5f932&w=740"
     },
     {
       "course": "Data Science and Analytics",
@@ -21,7 +23,8 @@
       "point2": "Business Intelligence and Data Warehousing",
       "point3": "Statistical Analysis with R or Python",
       "Price": "$28",
-      "Duration": "60 weeks"
+      "Duration": "60 weeks",
+      "img" : "https://img.freepik.com/free-photo/handsome-young-curly-man-standing-with-laptop-computer-isolated-white-wall_231208-1157.jpg?w=740&t=st=1710492417~exp=1710493017~hmac=279c3f48af4323ba789d446b2f3b2b08647ec4539f701aa55ada73ab05fbd018"
     },
    
     {
@@ -30,7 +33,8 @@
       "point2": "Healthcare Management",
       "point3": "Health Informatics",
       "Price": "$30",
-      "Duration": "58 weeks"
+      "Duration": "58 weeks",
+      "img": "https://img.freepik.com/premium-photo/medical-student-smiling-camera-class_13339-297488.jpg?w=740"
     },
     {
       "course": "Language and Communication",
@@ -38,7 +42,8 @@
       "point2": "Public Speaking and Communication Skills",
       "point3": "Technical Writing Certification",
       "Price": "$18",
-      "Duration": "40 weeks"
+      "Duration": "40 weeks",
+      "img": "https://img.freepik.com/premium-photo/learning-irregular-verbs-school_274679-36046.jpg?w=740"
     },
     {
       "course": "Psychology and Counseling",
@@ -54,7 +59,8 @@
       "point2": "Climate Change and Policy",
       "point3": "Conservation Biology",
       "Price": "$29",
-      "Duration": "62 weeks"
+      "Duration": "62 weeks",
+      "img": "https://img.freepik.com/free-photo/tech-people-trying-achieve-ambitious-sustainability-goals_23-2150950163.jpg?w=740"
     },
     {
       "course": "Education and Teaching",
@@ -62,7 +68,8 @@
       "point2": "Classroom Management",
       "point3": "Educational Psychology",
       "Price": "$23",
-      "Duration": "48 weeks"
+      "Duration": "48 weeks",
+      "img":"https://img.freepik.com/free-photo/i-love-being-teacher-screenshot-latin-young-woman-giving-english-class-through-video-call_662251-2228.jpg?t=st=1710492787~exp=1710496387~hmac=9642126121bb5addac6303953969d01bd4f0c229c0d6909ce8fbac67f7f047cc&w=740"
     },
     {
       "course": "Engineering",
@@ -70,7 +77,8 @@
       "point2": "Electrical Engineering Fundamentals",
       "point3": "Civil Engineering and Infrastructure Development",
       "Price": "$27",
-      "Duration": "58 weeks"
+      "Duration": "58 weeks",
+      "img": "https://img.freepik.com/free-photo/civil-engineer-construction-worker-architects-wearing-hardhats-safety-vests-are-working-together-construction-site-building-home-cooperation-teamwork-concept_640221-172.jpg?t=st=1710492820~exp=1710496420~hmac=7feb67c2c9a4fde42e5273610e71316195b6bae0c27ff130bad17102e0418c28&w=740"
     },
     {
       "course": "Mathematics and Statistics",
@@ -78,7 +86,8 @@
       "point2": "Linear Algebra and Calculus",
       "point3": "Mathematical modelling",
       "Price": "$21",
-      "Duration": "42 weeks"
+      "Duration": "42 weeks",
+      "img":"https://img.freepik.com/free-photo/happy-coworkes-shaking-hands-after-business-presentation-office_637285-7048.jpg?t=st=1710492716~exp=1710496316~hmac=3c21243b74c8b60f526c7e604c43c64555f3953ce3da72ff1f21c47b9db2625e&w=740"
     }
   ]
   
