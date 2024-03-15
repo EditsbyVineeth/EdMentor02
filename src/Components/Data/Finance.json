@@ -45,14 +45,16 @@
       "course": "Introduction to Banking",
       "point1": "Get insights into the banking industry, its functions, and financial products.",
       "Duration": "7 weeks",
-      "Price": "$109"
+      "Price": "$109",
+      "img":"https://img.freepik.com/free-photo/banking-saving-money-management-account-concept_53876-124787.jpg?t=st=1710493123~exp=1710496723~hmac=ac2b44a7b83da485254f39095b632f4fa779eb59f0659181972be6d847cac1c5&w=740"
     },
     {
       "id": 7,
       "course": "Estate Planning and Wealth Management",
       "point1": "Learn about managing wealth, estate planning, and inheritance.",
       "Duration": "6 weeks",
-      "Price": "$99"
+      "Price": "$99",
+      "img": "https://img.freepik.com/free-photo/realtor-making-deal-with-customer-office_23-2147764245.jpg?t=st=1710493222~exp=1710496822~hmac=3b6032d10cf245d5b964aa3ca74090fe5e54c53cf77ee5720b74d52d60ffcbc6&w=740"
     },
     {
       "id": 8,
@@ -73,28 +75,32 @@
       "course": "Financial Reporting and Analysis",
       "point1": "Dive into financial statement analysis and reporting for businesses.",
       "Duration": "7 weeks",
-      "Price": "$109"
+      "Price": "$109",
+      "img": "https://img.freepik.com/free-photo/finance-economics-work-male-discussion-laptop_1418-79.jpg?t=st=1710493400~exp=1710497000~hmac=fc2733fd6b900d3793bcfbea6307c383528ff3e1f67e663abd641d2d238c8916&w=740"
     },
     {
       "id": 11,
       "course": "Credit Management",
       "point1": "Learn how to manage credit, understand credit reports, and improve credit scores.",
       "Duration": "4 weeks",
-      "Price": "$79"
+      "Price": "$79",
+      "img": "https://img.freepik.com/premium-photo/closeup-image-woman-holding-showing-credit-cards_9563-10339.jpg?w=740"
     },
     {
       "id": 12,
       "course": "Financial Planning for Millennials",
       "point1": "Specifically tailored to the financial needs and goals of young adults.",
       "Duration": "5 weeks",
-      "Price": "$89"
+      "Price": "$89",
+      "img": "https://img.freepik.com/free-photo/happy-couple-having-meeting-with-real-estate-agent-analyzing-blueprints-while-communicating_637285-3822.jpg?t=st=1710493481~exp=1710497081~hmac=8f4e1cc24a58701b0fac24f108930e5377f4bea2fb5a3084e7e77463170e3756&w=740"
     },
     {
       "id": 13,
       "course": "Online Trading and Investment",
       "point1": "Explore online brokerage platforms, stock trading, and investment strategies for beginners.",
       "Duration": "6 weeks",
-      "Price": "$99"
+      "Price": "$99",
+      "img": "https://img.freepik.com/free-photo/revenue-operations-concept_23-2150902409.jpg?t=st=1710493271~exp=1710496871~hmac=02e204be032e0cab33988c4afd802e0da643e4e5d0dededada9a97c4768870b8&w=740"
     },
     {
       "id": 14,
@@ -108,6 +114,7 @@
       "course": "Digital Payments and Cryptocurrencies",
       "point1": "Learn about digital wallets, peer-to-peer payments, and cryptocurrencies like Bitcoin.",
       "Duration": "6 weeks",
-      "Price": "$99"
+      "Price": "$99",
+      "img":"https://img.freepik.com/free-photo/closeup-golden-bitcoins-dark-reflective-surface-histogram-decreasing-crypto_1268-19910.jpg?t=st=1710493334~exp=1710496934~hmac=aba6d02b76bbdb946af46c4200758cc72b353f8b1336026fd128eb1730437e1b&w=740"
     }
       ]
