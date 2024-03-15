@@ -5,9 +5,10 @@ import { useAppContext } from '../AppContext'
 import Finance from '../Data/Finance.json'
 import Graduation from '../Data/Graduation.json'
 import MoneyManagement from '../Data/MoneyManagement.json'
-import School from '../Data/School.json'
+import School from '../Data/School'
 import Skills from '../Data/Skills.json'
 import StockMarket from '../Data/StockMarket.json'
+import img from '../../images/blogs/1.jpg'
 
 import sampleImg from '../../images/blogs/2.jpg'
 
@@ -37,7 +38,7 @@ function SearchResult() {
          { filteredData.map((item,key)=>( 
           <div className=' bg-stone-200  w-48 md:w-56  h-auto hover:scale-105 transition-all duration-300
              md:h-auto flex flex-col items-center p-1 md:p-2'>
-              <img src={sampleImg} alt='samplePic'/>
+              <img src={item.img ? item.img : img} alt='samplePic'/>
                 <h1 className=' text-left font-semibold text-md leading-tight md:text-xl'>{item.course}</h1>
                <div className=' flex flex-col justify-stretch text-sm md:text-md'>
                      { item.point1 && <span> {item.point1}. </span> }
