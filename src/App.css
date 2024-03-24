@@ -4,13 +4,12 @@
     min-height: 100vh; /* Ensures App takes at least the height of the viewport */
   }
   
- 
  .login_form{
-  
   background-color: rgba(95, 51, 240, 0.473);
   backdrop-filter: blur(10px);
   color: white;
  }
+ 
  .signup_form{
   background-color: rgba(95, 51, 240, 0.473);
   backdrop-filter: blur(10px);
@@ -22,11 +21,6 @@
   color: white;
  }
 
- .multiple-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr))
-  }  
-
 /* .course_page{
   background-image: url('./images/blogs/page_background.png');
   background-size: cover;
@@ -34,6 +28,4 @@
   background-attachment: fixed;
   background-repeat: no-repeat;
   z-index: -999;
-
-  
 } */
